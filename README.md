@@ -1,2 +1,3 @@
-# starknet-specs
-Specs and initial implementation of the StarkNet protocol
+# StarkNet Specs
+
+This git repository held the specs and polular implementation of the StarkNet network.
