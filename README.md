@@ -8,6 +8,10 @@ The primary objective of this repository is to:
 - **Research and Analyze**: Conduct in-depth studies on various implementations within the StarkNet ecosystem.
 - **Document and Abstract**: Extract and document the protocol specifications from these implementations.
 
+## Milestone
+
+👉 Please visit [starknet-specs-milestone](https://github.com/yilinglabs/starknet-specs-milestone) for detail.
+
 ## Current Focus
 
 We are currently in the research phase, focusing on various popular implementations in the StarkNet ecosystem, including but not limited to:
